@@ -1,0 +1,22 @@
+{
+  
+  "1": {
+    "title": "Home",
+    "content": ".",
+    "url": "http://localhost:4000/algorithm/",
+    "relUrl": "/"
+  }
+  ,"2": {
+    "title": "tmp",
+    "content": "",
+    "url": "http://localhost:4000/algorithm/docs/tmp",
+    "relUrl": "/docs/tmp"
+  }
+  ,"3": {
+    "title": "tmp1",
+    "content": "DARS .",
+    "url": "http://localhost:4000/algorithm/docs/tmp/tmp1/",
+    "relUrl": "/docs/tmp/tmp1/"
+  }
+  
+}
