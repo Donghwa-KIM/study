@@ -1,22 +1,22 @@
 {
   
   "1": {
-    "title": "Home",
-    "content": ".",
-    "url": "http://localhost:4000/algorithm/",
-    "relUrl": "/"
+    "title": "CLIP",
+    "content": "CLIP .",
+    "url": "http://localhost:4000/study/docs/multimodal/CLIP/",
+    "relUrl": "/docs/multimodal/CLIP/"
   }
   ,"2": {
-    "title": "tmp",
-    "content": "",
-    "url": "http://localhost:4000/algorithm/docs/tmp",
-    "relUrl": "/docs/tmp"
+    "title": "Home",
+    "content": "AI/ML 관련 모델 논문/실습 정리 . 작성중… .",
+    "url": "http://localhost:4000/study/",
+    "relUrl": "/"
   }
   ,"3": {
-    "title": "tmp1",
-    "content": "DARS .",
-    "url": "http://localhost:4000/algorithm/docs/tmp/tmp1/",
-    "relUrl": "/docs/tmp/tmp1/"
+    "title": "Multimodal",
+    "content": "",
+    "url": "http://localhost:4000/study/docs/multimodal",
+    "relUrl": "/docs/multimodal"
   }
   
 }

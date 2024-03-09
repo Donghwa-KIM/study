@@ -1,9 +1,9 @@
 ---
 layout: default
-title: tmp1
-parent: tmp
+title: CLIP
+parent: Multimodal
 nav_order: 1
 ---
 
-# DARS
+# CLIP
 {: .no_toc }

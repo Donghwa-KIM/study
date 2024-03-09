@@ -8,4 +8,9 @@ permalink: /
 
 
 
-<p align="left"><img width="200" height="auto" src="{{site.baseurl}}{%link/assets/images/main.svg%}"></p>
+<!-- <p align="left"><img width="200" height="auto" src="{{site.baseurl}}{%link/assets/images/main.svg%}"></p>
+-->
+
+## AI/ML 관련 모델 논문/실습 정리
+
+작성중... 
